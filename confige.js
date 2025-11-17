@@ -1,0 +1,1 @@
+console.log("my configure file version 1");
