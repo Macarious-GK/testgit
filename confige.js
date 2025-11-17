@@ -1,1 +1,1 @@
-console.log("my configure file version 1");
+console.log("my configure file version 1anotherbrachs");
